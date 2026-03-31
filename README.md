@@ -1,4 +1,4 @@
-Case Study: Retail Security Architecture & Control Analysis
+CASE STUDY: RETAIL SECURITY ARCHITECTURE & CONTROL ANALYSIS
 
 EXECUTIVE SUMMARY
 
